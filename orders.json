@@ -1,0 +1,47 @@
+{
+  "S33491": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jonas Freier, Burgstraße 2, 94262 Kollnburg, Deutschland",
+    "receiver": "Josef Fradler, Möderndorf 8, 9063 Maria Saal, Österreich",
+    "price": "7.000,00 €",
+    "description": "Hersteller: Kuhn<br>Typ: GF 7902<br>S.N: A1955<br>Baujahr: 2014<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Josef Fradler<br>Möderndorf 8<br>9063 Maria Saal<br>Österreich<br>Telefon: +43 6641338625",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "20.01.2026",
+    "deliveryDate": "26.01.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
