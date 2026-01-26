@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "20.01.2026",
-    "deliveryDate": "26.01.2026",
+    "deliveryDate": "28.01.2026, 15:30 Uhr",
     "pickup": {
-      "street": "Hegenheimer Str. 15",
-      "postal_code": "79576",
-      "city": "Weil am Rhein",
+      "street": "Taxetstraße 4",
+      "postal_code": "85599",
+      "city": "Vaterstetten",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
